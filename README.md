@@ -1,3 +1,6 @@
+![CI](https://github.com/Giladf13/json-filter/actions/workflows/ci.yml/badge.svg)
+
+
 # json-filter
 Small Python CLI to filter JSON input by keys and simple conditions.
 
