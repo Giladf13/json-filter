@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: json-filter
+Version: 0.1.0
+Summary: Tiny CLI to filter JSON by keys/conditions
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# json-filter
+Small Python CLI to filter JSON input by keys and simple conditions.
+
+## Examples
+```bash
+json-filter --include-keys name id --where "age>=18" people.json

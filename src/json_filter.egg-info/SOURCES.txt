@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/json_filter/__init__.py
+src/json_filter/cli.py
+src/json_filter.egg-info/PKG-INFO
+src/json_filter.egg-info/SOURCES.txt
+src/json_filter.egg-info/dependency_links.txt
+src/json_filter.egg-info/entry_points.txt
+src/json_filter.egg-info/top_level.txt
+tests/test_cli.py

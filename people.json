@@ -1,0 +1,5 @@
+[
+  {"name": "Avi",  "id": 1, "age": 17, "active": true,  "country": "IL"},
+  {"name": "Dana", "id": 2, "age": 22, "active": false, "country": "US"},
+  {"name": "Chen", "id": 3, "age": 35, "active": true,  "country": "IL"}
+]

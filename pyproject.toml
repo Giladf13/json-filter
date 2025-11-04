@@ -1,0 +1,14 @@
+[project]
+name = "json-filter"
+version = "0.1.0"
+description = "Tiny CLI to filter JSON by keys/conditions"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+json-filter = "json_filter.cli:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+

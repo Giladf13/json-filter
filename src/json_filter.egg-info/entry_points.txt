@@ -1,0 +1,2 @@
+[console_scripts]
+json-filter = json_filter.cli:main
